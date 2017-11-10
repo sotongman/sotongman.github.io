@@ -2,7 +2,7 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Tale
+title:          與天通理
 paginate:       5
 baseurl:        "/sotongman.github.io"
 url:            "https://sotongman.github.io"
@@ -17,9 +17,9 @@ markdown:       kramdown
 
 # About
 author:
-  name:         Chester How
-  url:          http://chester.how
-  email:        chesterhow@gmail.com
+  name:         
+  url:          
+  email:        
 
 # Custom vars
 version:        3.4.1
