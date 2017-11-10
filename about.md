@@ -6,4 +6,5 @@ permalink: /about/
 ---
 
 I read, think, write.
+
 For my daughters and their families.
